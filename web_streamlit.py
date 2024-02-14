@@ -63,7 +63,7 @@ with columna1:
     st.subheader("Podes encontrarme en:")
     st.link_button(":briefcase: Perfil de Linkedin", "www.linkedin.com/in/santiago-danielli-3a6859b2")
     st.link_button(":computer: Github - Proyectos", "https://github.com/santiagodanielli")
-    st.link_button(":page_facing_up: Curriculum Vitae", "https://santiago-danielli-cv.streamlit.app/")
+    st.link_button(":page_facing_up: Curriculum Vitae", "https://santiagodanielli-cv.streamlit.app/")
 with columna2:
     st.image(data_viz_2)
 
